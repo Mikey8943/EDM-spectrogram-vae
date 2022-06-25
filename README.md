@@ -2,7 +2,7 @@
 Ah..just follow this
 
 
-#Datasets
+# Datasets
 As we have to use spectrograms for this project I have dicided to scape music from the internet.
 There are some online music platform that I picked for scaping.
 | Site         | Scape Tool  | Data   | Quality    | Difficulty to Scrape |
