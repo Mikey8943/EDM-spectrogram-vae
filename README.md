@@ -3,7 +3,7 @@ Ah..just follow this
 
 
 # Datasets
-As we have to use spectrograms for this project I have dicided to scape music from the internet.
+As we have to use spectrograms for this project, I dicided to scape music from the internet.
 There are some online music platform that I picked for scaping.
 
 | Site         | Scape Tool  | Data   | Quality    | Difficulty to Scrape |
@@ -13,7 +13,7 @@ There are some online music platform that I picked for scaping.
 | Soundcloud   | available(youtube-dl)   | medium | Flactuate  | Quite Hard           |
 | Bandcamp     | available(youtube-dl)   | large  | Best       | Quite Hard           |
 
-From you can see above, Youtube is the easiest of all to scrape thanks to [Pytube](https://github.com/pytube/pytube) library
+From you can see above, Youtube is the easiest of all to scrape thanks to [Pytube](https://github.com/pytube/pytube) library that is very easy to set up and have consistancy in download speed and stability.
 
 ## data process
 1.load your song files
