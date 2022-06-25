@@ -7,7 +7,7 @@ As we have to use spectrograms for this project I have dicided to scape music fr
 There are some online music platform that I picked for scaping.
 | Site         | Scape Tool  | Data   | Quality    | Difficulty to Scrape |
 |:------------:|:-----------:|:------:|:----------:|:--------------------:|
-| Youtube      | available(pytube/youtube-dl)   | large  | Very good  | Very Easy            |
+| Youtube      | available(**pytube**/youtube-dl)   | large  | Very good  | Very Easy            |
 | Spotify      | none        | large  | Best       | No                   |
 | Soundcloud   | available(youtube-dl)   | medium | Flactuate  | Quite Hard           |
 | Bandcamp     | available(youtube-dl)   | large  | Best       | Quite Hard           |
