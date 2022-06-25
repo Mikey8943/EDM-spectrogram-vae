@@ -11,6 +11,7 @@ There are some online music platform that I picked for scaping.
 | Spotify      | none        | large  | Best       | No                   |
 | Soundcloud   | available(youtube-dl)   | medium | Flactuate  | Quite Hard           |
 | Bandcamp     | available(youtube-dl)   | large  | Best       | Quite Hard           |
+From you can see above, Youtube is the easiest of all to scrape thanks to [Pytube](https://github.com/pytube/pytube) library
 
 ## data process
 1.load your song files
