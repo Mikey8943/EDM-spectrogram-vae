@@ -9,7 +9,7 @@ There are some online music platform that I picked for scaping.
 | Site         | Scape Tool  | Data   | Quality    | Difficulty to Scrape |
 |:------------:|:-----------:|:------:|:----------:|:--------------------:|
 | Youtube      | available(**pytube**/youtube-dl)   | large  | Very good  | Very Easy            |
-| Spotify      | available(youtube-dl)   | large  | Best       | No                   |
+| Spotify      | none        | large  | Best       | No                   |
 | Soundcloud   | available(youtube-dl)   | medium | Flactuate  | Quite Hard           |
 | Bandcamp     | available(youtube-dl)   | large  | Best       | Quite Hard           |
 
