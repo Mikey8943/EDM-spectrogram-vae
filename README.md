@@ -1,6 +1,9 @@
 # EDM-spectrogram-vae
-Ah..just follow this
 
+Check out the generator in [Google Colab]()
+Read Thai article in [Medium]()
+
+Ah..just to let you know This place is not quite organized...
 
 # Datasets
 As we have to use spectrograms for this project, I dicided to scape music from the internet.
