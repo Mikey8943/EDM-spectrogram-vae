@@ -2,6 +2,7 @@
 
 Check out the generator in [Google Colab](https://colab.research.google.com/drive/1nS-MkAlk8pERFjQoyr_ZtOqDUsN61VZp?usp=sharing)
 and read Thai article in [Medium](https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8)
+ And these are the demo I upload on [Soundcloud](https://soundcloud.app.goo.gl/NnuwYGtge4PrBduu9)
 Ah..just to let you know This place is not quite organized...
 
 # Datasets
