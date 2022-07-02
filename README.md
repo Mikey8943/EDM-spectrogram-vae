@@ -1,8 +1,8 @@
 # EDM-spectrogram-vae
 
-Check out the generator in [Google Colab](https://colab.research.google.com/drive/1nS-MkAlk8pERFjQoyr_ZtOqDUsN61VZp?usp=sharing){:target="_blank"}
-Read Thai article in [Medium](https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8){:target="_blank"}
-
+Check out the generator in [Google Colab](https://colab.research.google.com/drive/1nS-MkAlk8pERFjQoyr_ZtOqDUsN61VZp?usp=sharing)
+Read Thai article in [Medium](https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8)
+<a href="https://colab.research.google.com/drive/1nS-MkAlk8pERFjQoyr_ZtOqDUsN61VZp?usp=sharing" target="_blank">Google Colab</a>
 Ah..just to let you know This place is not quite organized...
 
 # Datasets
